@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [`setup`](setup/): Setup script for the tutorial
+- [`setup/`](setup/): Setup script for the tutorial
 - [`project/`](project/): Sample source code for the tutorial
 - [`complete/`](complete/): Completed tutorial code, use for reference if you get stuck!
 
