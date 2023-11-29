@@ -1,0 +1,4 @@
+snowflake-snowpark-python[pandas] @ git+https://github.com/snowflakedb/snowpark-python@main
+tomli
+toml
+pytest
