@@ -1,5 +1,11 @@
 # Local Testing Demo
 
+## Contents
+
+- [`setup`](setup/): Setup script for the tutorial
+- [`project/`](project/): Sample source code for the tutorial
+- [`complete/`](complete/): Completed tutorial code, use for reference if you get stuck!
+
 ## Setup
 
 1. Clone or download this repository
