@@ -4,7 +4,7 @@
 
 - [`setup/`](setup/): Setup script for the tutorial
 - [`project/`](project/): Sample source code for the tutorial
-- [`complete/`](complete/): Completed tutorial code, use for reference if you get stuck!
+- [`complete.md`](complete.md): Completed tutorial code, use for reference if you get stuck!
 
 ## Setup
 
