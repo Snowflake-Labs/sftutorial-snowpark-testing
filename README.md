@@ -1,4 +1,6 @@
-# Local Testing Demo
+# [Local Testing Turorial](https://docs.snowflake.com/en/developer-guide/snowpark/python/tutorials/testing-tutorial)
+
+Looking for the tutorial instructions? [Click here!](https://docs.snowflake.com/en/developer-guide/snowpark/python/tutorials/testing-tutorial)
 
 ## Contents
 
